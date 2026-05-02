@@ -1,60 +1,62 @@
 # 👋 Hi, I'm Chakresh
 
-### 🚀 Frontend-focused Full Stack Developer building production-grade platforms
+### 🚀 Frontend-focused Full Stack Developer
 
-I build scalable, high-performance web applications with a strong focus on frontend architecture, SEO, and real-world product flows.
-Currently working on production systems where performance, UX, and structure actually matter.
+**Building scalable, high-performance, production-grade web platforms**
+
+I specialize in crafting **structured frontend architectures**, optimizing **performance & SEO**, and building **real-world product flows** that actually convert.
+Currently working on production systems where **UX, speed, and maintainability** are critical.
 
 ---
 
 ## 🧠 Tech Stack
 
-| **Frontend** | **Backend** |
-|-------------|------------|
+| **Frontend**                                                                                              | **Backend**                          |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | React.js, Next.js (App Router) <br> TypeScript, JavaScript <br> Tailwind CSS, Framer Motion <br> Radix UI | Node.js, Next.js APIs <br> REST APIs |
 
-| **Database & Infra** | **Tools** |
-|---------------------|----------|
-| PostgreSQL (Neon) <br> MongoDB <br> Vercel (Deployment) | Git & GitHub <br> AI-assisted development (Claude, Codex) |
+| **Database & Infra**                                    | **Tools**                                         |
+| ------------------------------------------------------- | ------------------------------------------------- |
+| PostgreSQL (Neon) <br> MongoDB <br> Vercel (Deployment) | Git & GitHub <br> Claude, Codex (AI-assisted dev) |
 
-## 🔥 Featured Project — Skillyards Platform
+---
 
-A production-grade education platform with a strong frontend architecture, real user flows, and SEO-first implementation.
+## 🔥 Featured Work — Skillyards Platform
 
-### ⚡ Key Highlights
+> A **production-grade education platform** built with a frontend-first architecture, real user flows, and SEO-driven design.
 
-* Designed and implemented **scalable frontend architecture** using Next.js App Router
-* Built **20+ dynamic pages** (programs, blogs, test flows, enquiry system)
-* Integrated **Sanity CMS** for dynamic content (blogs, authors, tags)
-* Implemented **SEO system** (JSON-LD, sitemap, metadata, Open Graph)
-* Developed **interactive skill-test flow** (register → start → result)
-* Built **high-conversion landing pages** with modular components
-* Optimized performance achieving:
+### ⚡ Impact Highlights
 
-  * 🚀 **97 Performance**
-  * ♿ **96 Accessibility**
-  * ✅ **100 SEO**
-* Integrated APIs with:
+* Architected a **scalable frontend system** using Next.js App Router
+* Delivered **20+ dynamic pages** across marketing, content, and product flows
+* Built **conversion-focused landing pages** with modular section architecture
+* Integrated **Sanity CMS** for dynamic blog/content pipeline
+* Developed a complete **skill-test system** (register → start → result)
+### 🚀 Performance
 
-  * Efficient data handling
-  * Skeleton loading for better UX
-* Worked in a **2-developer team**, owning the entire frontend system
+* ⚡ **97 Performance**
+* ♿ **96 Accessibility**
+* ✅ **100 SEO**
 
-### 🏗️ Architecture Snapshot
+### 🧩 Engineering Quality
 
-* Monorepo structure (website, admin, API, CMS, services)
-* Component-driven design (domain-based structure)
-* Hybrid data layer (CMS + APIs + local structured data)
+* Efficient API handling with **optimized state management**
+* Skeleton loading for **perceived performance**
+* Clean **component-driven architecture (domain-based)**
+* Hybrid data flow (**CMS + APIs + static data**)
 
-### 🌐 Live
+### 🏗️ Architecture
+
+* Monorepo setup (Website, Admin, API, CMS, Services)
+* Scalable folder structure by **page/domain**
+* Separation of concerns across frontend & backend layers
+
+### 🌐 Live Project
 
 👉 https://www.skillyards.in/
 
 ---
-
-## 📊 GitHub Stats
-
-
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chakreshchakshu&theme=tokyonight&hide_border=true" height="170" />
@@ -65,26 +67,24 @@ A production-grade education platform with a strong frontend architecture, real 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chakreshchakshu&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chakreshchakshu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chakreshchakshu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chakreshchakshu&theme=tokyonight&utcOffset=5.5" />
 </p>
-
----
 
 ## ⚙️ What I Focus On
 
-* Building **real-world scalable frontend systems**
-* Writing **clean, maintainable UI architecture**
-* Improving **performance & SEO**
-* Creating **conversion-focused user flows**
-* Using AI tools effectively to speed up development without compromising quality
+* Designing **scalable frontend architectures**
+* Building **clean, maintainable UI systems**
+* Optimizing **performance & SEO**
+* Creating **high-conversion product flows**
+* Leveraging AI tools **strategically**, not blindly
 
 ---
 
 ## 🤝 Connect
 
-* GitHub: https://github.com/chakreshchakshu
+* GitHub → https://github.com/chakreshchakshu
 
 ---
 
-⭐ If you like clean architecture and production-level frontend work, you're in the right place.
+⭐ *Focused on building real products, not just projects.*
