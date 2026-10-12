@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chakresh
 
-### 🚀 Frontend-focused Full Stack Developer
+### 🚀 Full Stack Developer
 
 **Building scalable, high-performance, production-grade web platforms**
 
